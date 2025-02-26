@@ -47,10 +47,6 @@ python wiki_to_text.py
 ### **5. Grab Some Coffee ☕**
 Processing the Wikipedia dump **takes time**, so **sit back and enjoy a few cups of coffee** while it runs.  
 
----
-
-### **5. Grab Some Coffee ☕**
-Processing the Wikipedia dump **takes time**, so **sit back and enjoy a few cups of coffee** while it runs.  
 
 ---
 
