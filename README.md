@@ -4,7 +4,9 @@ On my journey towards building my first **small Finnish cognitive intelligence m
 
 I believe the **end result is quite solid**.  
 
-There are **some inaccuracies** in the dataset, but **95% of it is in good Finnish and structurally sound**.  
+There are **some inaccuracies** in the dataset, but **95% of it is in good Finnish and structurally sound**. 
+
+Dataset is too big to upload here, so you can find it at https://huggingface.co/datasets/EkBass/fiwiki-20250220-pages-articles
 
 ---
 
